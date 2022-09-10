@@ -1,0 +1,61 @@
+#nav{
+	font-size: 20px;
+	font-weight: 40px;
+	background-color: darkorange;
+}
+
+
+
+.navbar-dark .navbar-nav .nav-link{
+	color: rgb(255 255 255) !important;
+	font-weight: 400;
+}
+
+#a{ 
+	height: 500px;
+object-fit: cover;
+opacity: 0.8;
+}
+
+
+
+
+#c{
+	
+	
+	height: 500px;
+object-fit: cover;
+opacity: 0.8;
+	
+
+}
+
+
+#b{
+	
+	
+	height: 500px;
+object-fit: cover;
+opacity: 0.8;
+	
+
+}
+
+
+
+.col-md-3{
+	float: left;
+}
+
+
+#growth{
+	text-align: left;
+}
+
+
+#growthimg{
+
+	border-radius: 2%;
+}
+
+
